@@ -105,5 +105,5 @@
     © 2026 Lumina AI
   </footer>
 
-</body>
+</body> 
 </html>
